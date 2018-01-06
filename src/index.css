@@ -25,11 +25,13 @@ body {
 	font-family:Arial;
 	font-size:16px;
 	font-weight:bold;
-	padding:14px 47px;
+	padding:25px 47px;
 	text-decoration:none;
   text-shadow:0px -1px 0px #2b665e;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 10px;
+
 
 }
 #b3{
@@ -54,11 +56,13 @@ body {
 	font-family:Arial;
 	font-size:16px;
 	font-weight:bold;
-	padding:14px 47px;
+	padding:14px 80px;
 	text-decoration:none;
   text-shadow:0px -1px 0px #2b665e;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 10px;
+
 }
 #b2{
   -moz-box-shadow:inset 0px 1px 3px 0px #91b8b3;
@@ -85,8 +89,10 @@ body {
 	padding:14px 47px;
 	text-decoration:none;
   text-shadow:0px -1px 0px #2b665e;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 00px;
+	margin-right: 00px;
+	margin-top: 10px;
+
 }
 #b1{
   -moz-box-shadow:inset 0px 1px 3px 0px #91b8b3;
@@ -113,14 +119,11 @@ body {
 	padding:14px 47px;
 	text-decoration:none;
   text-shadow:0px -1px 0px #2b665e;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 00px;
+	margin-right: 00px;
+	margin-top: 10px;
 }
 #tableau{
-  
-  background-color: #2b665e;
-  list-style-type: none;
-  height: 120px;
-  width: 20%;
+
   
 }

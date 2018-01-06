@@ -219,7 +219,7 @@ class Yeux extends Component{
               <h3>A :{this.state.message.data.labels[this.state.message.data.labels.length-1]}</h3>
               <h3>
                 Historique:
-                <ul id="tableau">
+                <ul>
                   <li>
                     {this.state.message.data.values.slice(this.state.message.data.values.length-6,this.state.message.data.values.length-1).map(function(temp,i){
 
